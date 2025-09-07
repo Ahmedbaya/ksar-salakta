@@ -44,7 +44,7 @@ A full-stack web application for managing bookings at Ksar Salakta, an authentic
 3. **Set up environment variables**
    Create a `.env.local` file in the root directory:
    \`\`\`env
-   MONGODB_URI=mongodb+srv://username:password@cluster.mongodb.net/ksar-salakta
+   MONGODB_URI=
    JWT_SECRET=your-super-secret-jwt-key-here
    \`\`\`
 
